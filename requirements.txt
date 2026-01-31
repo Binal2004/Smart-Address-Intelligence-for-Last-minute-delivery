@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+geopy
+fuzzywuzzy
+python-Levenshtein
+transformers
+torch
+indic-nlp-library
+streamlit
+watchdog
+streamlit-js-eval
+requests
+pydeck
